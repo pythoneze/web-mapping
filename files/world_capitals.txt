@@ -1,0 +1,96 @@
+NAME,LOCATION,LAT,LON
+Kabul,Afghanistan,34.5289,69.1725
+Tirana,Albania,41.3275,19.8189
+Algiers,Algeria,36.7528,3.0422
+Andorra la Vella,Andorra,42.5078,1.5211
+Luanda,Angola,-8.8368,13.2343
+Buenos Aires,Argentina,-34.6037,-58.3816
+Yerevan,Armenia,40.1792,44.4991
+Canberra,Australia,-35.2809,149.1300
+Vienna,Austria,48.2082,16.3738
+Baku,Azerbaijan,40.4093,49.8671
+Nassau,Bahamas,25.0343,-77.3963
+Manama,Bahrain,26.2285,50.5860
+Dhaka,Bangladesh,23.8103,90.4125
+Bridgetown,Barbados,13.0975,-59.6167
+Minsk,Belarus,53.9000,27.5667
+Brussels,Belgium,50.8503,4.3517
+Belmopan,Belize,17.2510,-88.7590
+Porto-Novo,Benin,6.4965,2.6036
+Thimphu,Bhutan,27.4728,89.6393
+Sucre,Bolivia,-19.0196,-65.2619
+Sarajevo,Bosnia and Herzegovina,43.8563,18.4131
+Gaborone,Botswana,-24.6282,25.9231
+Brasília,Brazil,-15.8267,-47.9218
+Bandar Seri Begawan,Brunei,4.9031,114.9398
+Sofia,Bulgaria,42.6975,23.3242
+Ouagadougou,Burkina Faso,12.3714,-1.5197
+Gitega,Burundi,-3.4264,29.9307
+Phnom Penh,Cambodia,11.5564,104.9282
+Yaoundé,Cameroon,3.8480,11.5021
+Ottawa,Canada,45.4215,-75.6972
+Bangui,Central African Republic,4.3947,18.5582
+N'Djamena,Chad,12.1348,15.0557
+Santiago,Chile,-33.4489,-70.6693
+Beijing,China,39.9042,116.4074
+Bogotá,Colombia,4.7110,-74.0721
+Moroni,Comoros,-11.7172,43.2473
+Kinshasa,Democratic Republic of the Congo,-4.4419,15.2663
+San José,Costa Rica,9.9281,-84.0907
+Zagreb,Croatia,45.8150,15.9819
+Havana,Cuba,23.1136,-82.3666
+Nicosia,Cyprus,35.1856,33.3823
+Prague,Czech Republic,50.0755,14.4378
+Copenhagen,Denmark,55.6761,12.5683
+Djibouti,Djibouti,11.5883,43.1450
+Roseau,Dominica,15.3010,-61.3870
+Santo Domingo,Dominican Republic,18.4861,-69.9312
+Quito,Ecuador,-0.1807,-78.4678
+Cairo,Egypt,30.0444,31.2357
+San Salvador,El Salvador,13.6929,-89.2182
+Malabo,Equatorial Guinea,3.7500,8.7833
+Asmara,Eritrea,15.3229,38.9251
+Tallinn,Estonia,59.4370,24.7536
+Mbabane,Eswatini,-26.3054,31.1367
+Addis Ababa,Ethiopia,9.0389,38.7613
+Suva,Fiji,-18.1248,178.4501
+Helsinki,Finland,60.1695,24.9354
+Paris,France,48.8566,2.3522
+Libreville,Gabon,0.3917,9.4542
+Banjul,Gambia,13.4549,-16.5790
+Tbilisi,Georgia,41.6938,44.8015
+Berlin,Germany,52.5200,13.4050
+Accra,Ghana,5.6037,-0.1870
+Athens,Greece,37.9838,23.7275
+Guatemala City,Guatemala,14.6349,-90.5069
+Conakry,Guinea,9.6412,-13.5784
+Bissau,Guinea-Bissau,11.8817,-15.6170
+Georgetown,Guyana,6.8013,-58.1551
+Port-au-Prince,Haiti,18.5944,-72.3074
+Tegucigalpa,Honduras,14.0723,-87.1921
+Budapest,Hungary,47.4979,19.0402
+Reykjavik,Iceland,64.1355,-21.8954
+New Delhi,India,28.6139,77.2090
+Jakarta,Indonesia,-6.2088,106.8456
+Tehran,Iran,35.6892,51.3890
+Baghdad,Iraq,33.3152,44.3661
+Dublin,Ireland,53.3498,-6.2603
+Rome,Italy,41.9028,12.4964
+Tokyo,Japan,35.6828,139.7594
+Amman,Jordan,31.9516,35.9236
+Nairobi,Kenya,-1.2864,36.8172
+Kuwait City,Kuwait,29.3759,47.9774
+Vientiane,Laos,17.9757,102.6331
+Riga,Latvia,56.9496,24.1052
+Beirut,Lebanon,33.8938,35.5018
+Vilnius,Lithuania,54.6872,25.2797
+Luxembourg,Luxembourg,49.6117,6.1319
+Antananarivo,Madagascar,-18.8792,47.5079
+Kuala Lumpur,Malaysia,3.1390,101.6869
+Malé,Maldives,4.1755,73.5093
+Bamako,Mali,12.6392,-8.0029
+Valletta,Malta,35.8997,14.5146
+Mexico City,Mexico,19.4326,-99.1332
+Moscow,Russia,55.7558,37.6173
+Washington,United States,38.9072,-77.0369
+London,United Kingdom,51.5074,-0.1278
